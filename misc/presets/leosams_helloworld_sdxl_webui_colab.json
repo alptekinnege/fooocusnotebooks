@@ -1,10 +1,10 @@
 {
-    "default_model": "leosams_helloworld_sdxl_v40.safetensors",
+    "default_model": "leosamsHelloworldXL_helloworldXL70.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "none",
             0.1
         ],
         [
@@ -38,11 +38,10 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "leosams_helloworld_sdxl_v40.safetensors": "https://civitai.com/api/download/models/320950"
+        "leosamsHelloworldXL_helloworldXL70.safetensors": "https://civitai.com/api/download/models/570138?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
     },
     "previous_default_models": [
     ]
