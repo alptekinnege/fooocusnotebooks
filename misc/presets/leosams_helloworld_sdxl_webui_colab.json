@@ -4,23 +4,23 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "none",
+            "Ethereal Prints v1.0.safetensors",
             0.1
         ],
         [
-            "None",
+            "RMSDXL_Enhance.safetensors",
             1.0
         ],
         [
-            "None",
+            "Evangelion Style SDXL v1.0.safetensors",
             1.0
         ],
         [
-            "None",
+            "add-detail-xl.safetensors",
             1.0
         ],
         [
-            "None",
+            "StudioGhibli.Redmond-StdGBRRedmAF-StudioGhibli.safetensors",
             1.0
         ]
     ],
@@ -42,6 +42,11 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
+        "Evangelion Style SDXL v1.0.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Evangelion%20Style%20SDXL%20%20v1.0.safetensors",
+        "RMSDXL_Enhance.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/RMSDXL_Enhance.safetensors",
+        "Ethereal Prints v1.0.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Ethereal%20Prints%20v1.0.safetensors",
+        "StudioGhibli.Redmond-StdGBRRedmAF-StudioGhibli.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/StudioGhibli.Redmond-StdGBRRedmAF-StudioGhibli.safetensors",
+        "add-detail-xl.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/add-detail-xl.safetensors"
     },
     "previous_default_models": [
     ]
