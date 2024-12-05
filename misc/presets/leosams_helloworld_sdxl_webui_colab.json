@@ -42,10 +42,10 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "xl_more_art-full_v1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Evangelion%20Style%20SDXL%20%20v1.0.safetensors",
-        "boringRealism_primaryV4.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/RMSDXL_Enhance.safetensors",
-        "aidmaFluxStyleXL-v0.2.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Ethereal%20Prints%20v1.0.safetensors",
-        "aidmaMidjourneyV6.1-v0.1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/StudioGhibli.Redmond-StdGBRRedmAF-StudioGhibli.safetensors",
+        "xl_more_art-full_v1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/xl_more_art-full_v1.safetensors",
+        "boringRealism_primaryV4.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/boringRealism_primaryV4.safetensors",
+        "aidmaFluxStyleXL-v0.2.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/aidmaFluxStyleXL-v0.2.safetensors",
+        "aidmaMidjourneyV6.1-v0.1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/aidmaMidjourneyV6.1-v0.1.safetensors",
         "add-detail-xl.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/add-detail-xl.safetensors"
     },
     "previous_default_models": [
