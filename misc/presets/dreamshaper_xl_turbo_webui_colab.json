@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "DreamShaper_XL_Turbo_10.safetensors": "https://civitai.com/api/download/models/251662"
+        "DreamShaper_XL_Turbo_10.safetensors": "https://huggingface.co/Lykon/dreamshaper-xl-v2-turbo/resolve/main/DreamShaperXL_Turbo_v2_1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
