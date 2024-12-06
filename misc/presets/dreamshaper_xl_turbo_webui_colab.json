@@ -1,5 +1,5 @@
 {
-    "default_model": "DreamShaper_XL_Turbo_10.safetensors",
+    "default_model": "DreamShaper_XL_Turbo_20.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "DreamShaper_XL_Turbo_10.safetensors": "https://huggingface.co/Lykon/dreamshaper-xl-v2-turbo/resolve/main/DreamShaperXL_Turbo_v2_1.safetensors"
+        "DreamShaper_XL_Turbo_20.safetensors": "https://huggingface.co/Lykon/dreamshaper-xl-v2-turbo/resolve/main/DreamShaperXL_Turbo_v2_1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
