@@ -1,0 +1,53 @@
+{
+    "default_model": "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "hyperkraximalism_v1-1.safetensors",
+            1.0
+        ],
+        [
+            "RMSDXL_Creative.safetensors",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "AdvancedEnhancerXLv2.safetensors",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 4.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Enhance",
+        "Fooocus Sharp"
+    ],
+    "default_aspect_ratio": "1152*896",
+    "checkpoint_downloads": {
+        "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-Lightning/resolve/main/Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "hyperkraximalism_v1-1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/hyperkraximalism_v1-1.safetensors"
+        "RMSDXL_Creative.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/RMSDXL_Creative.safetensors"
+        "Hyperrealism style v3.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Hyperrealism%20style%20v3.safetensors"
+        "DD-GHST.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/DD-GHST.safetensors"
+        "AdvancedEnhancerXLv2.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/AdvancedEnhancerXLv2.safetensors"
+    },
+    "previous_default_models": [
+    ]
+}
