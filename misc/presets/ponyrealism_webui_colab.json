@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyrealism.safetensors",
+    "default_model": "vxpAnimaponyxlTurbo_v10Turbo.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -36,18 +36,14 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "ponyrealism.safetensors": "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16&token=43529ae74264d3e8f68668780acd048f"
+        "vxpAnimaponyxlTurbo_v10Turbo.safetensorss": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/vxpAnimaponyxlTurbo_v10Turbo.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {
-        "Concept_Art_Twilight.safetensors": "https://civitai.com/api/download/models/330475?type=Model&format=SafeTensor",
-        "Concept_Art_Eclipse.safetensors": "https://civitai.com/api/download/models/398292?type=Model&format=SafeTensor",
-        "Gothic_Art.safetensors": "https://civitai.com/api/download/models/324652?type=Model&format=SafeTensor",
-        "Gothic_Art2.safetensors": "https://civitai.com/api/download/models/382235?type=Model&format=SafeTensor",
-        "Line_Art.safetensors": "https://civitai.com/api/download/models/302106?type=Model&format=SafeTensor",
-        "Smooth.safetensors": "https://civitai.com/api/download/models/297988?type=Model&format=SafeTensor",
-        "Smooth_Anime.safetensors": "https://civitai.com/api/download/models/298238?type=Model&format=SafeTensor",
-        "Smooth_Anime2.safetensors": "https://civitai.com/api/download/models/333607?type=Model&format=SafeTensor"
+        "01lXLP.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/01lXLP.safetensors",
+        "Gh0stlyXLP.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Gh0stlyXLP.safetensors",
+        "Gothica.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Gothica.safetensors",
+        "larfeellora.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/larfeellora.safetensors"
     },
     "previous_default_models": []
 }
