@@ -1,5 +1,5 @@
 {
-    "default_model": "vxpAnimaponyxlTurbo_v10Turbo.safetensors",
+    "default_model": "ponyDiffusionV6XL_v6TurboDPOMerge.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -36,7 +36,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "vxpAnimaponyxlTurbo_v10Turbo.safetensorss": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/vxpAnimaponyxlTurbo_v10Turbo.safetensors"
+        "ponyDiffusionV6XL_v6TurboDPOMerge.safetensors": "https://huggingface.co/Bakanayatsu/ponyDiffusion-V6-XL-Turbo-DPO/resolve/main/ponyDiffusionV6XL_v6TurboDPOMerge.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {
