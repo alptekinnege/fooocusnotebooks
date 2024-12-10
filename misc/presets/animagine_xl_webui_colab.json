@@ -1,5 +1,5 @@
 {
-    "default_model": "NoobAI-XL-v1.1.safetensors",
+    "default_model": "merge.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "NoobAI-XL-v1.1.safetensors": "https://huggingface.co/Laxhar/noobai-XL-1.1/resolve/main/NoobAI-XL-v1.1.safetensors"
+        "merge.safetensors": "https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
