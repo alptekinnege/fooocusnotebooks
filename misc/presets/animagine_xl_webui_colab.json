@@ -1,5 +1,5 @@
 {
-    "default_model": "merge.safetensors",
+    "default_model": "NTRMIX.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "merge.safetensors": "https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "NTRMIX.safetensors": "https://stage.civitai.com/api/download/models/1159421?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
