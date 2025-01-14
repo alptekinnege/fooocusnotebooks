@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-Lightning/resolve/main/Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors"
+        "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors": "https://huggingface.co/kadirnar/Juggernaut-XI-Lightning/resolve/main/kadirnar/Juggernaut-XI-Lightning.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
