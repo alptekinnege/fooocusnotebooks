@@ -1,5 +1,5 @@
 {
-    "default_model": "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors"",
+    "default_model": "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors"": "https://huggingface.co/RunDiffusion/Juggernaut-XI-Lightning/resolve/main/Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors"
+        "Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-Lightning/resolve/main/Juggernaut-XI-byRunDiffusion-Lightning-Civitai-Version.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
