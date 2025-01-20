@@ -1,6 +1,5 @@
 {
     "path_loras": "/content/drive/MyDrive/fooocus/loras",
-    "path_checkpoints": "/content/drive/MyDrive/fooocus/checkpoints",
     "path_embeddings": "/content/drive/MyDrive/fooocus/embeddings",
     "path_upscale_models": "/content/drive/MyDrive/fooocus/upscale_models",
     "path_outputs": "/content/drive/MyDrive/fooocus/outputs",
