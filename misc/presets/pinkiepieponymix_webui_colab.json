@@ -36,7 +36,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "GoR_PONY_v5ilustros_H+VAE.safetensors": "https://civitai.com/api/download/models/1277531?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "GoR_PONY_v5ilustros_H+VAE.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/goddessOfRealism_gorPONYV5ilustrosH.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {},
