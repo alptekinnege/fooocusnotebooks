@@ -1,7 +1,7 @@
 {
-    "default_model": "kegantPDXL_v30.safetensors",
+    "default_model": "vxpAnimaponyxlTurbo_v10Turbo.safetensors",
     "default_refiner": "None",
-    "default_refiner_switch": 0.5,
+    "default_refiner_switch": 0.8,
     "default_loras": [
         [
             "None",
@@ -29,18 +29,16 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "1girl, ",
+    "default_prompt": "",
     "default_prompt_negative": "pony",
     "default_styles": [
         "Fooocus Pony"
     ],
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "kegantPDXL_v30.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/kegantPDXL_v30.safetensors"
+        "vxpAnimaponyxlTurbo_v10Turbo.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/vxpAnimaponyxlTurbo_v10Turbo.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads":  {
-        "Hyper-SDXL-12steps-CFG-lora.safetensors": "https://huggingface.co/ByteDance/Hyper-SD/resolve/main/Hyper-SDXL-12steps-CFG-lora.safetensors"
-    },
+    "lora_downloads":  {},
     "previous_default_models": []
 }
