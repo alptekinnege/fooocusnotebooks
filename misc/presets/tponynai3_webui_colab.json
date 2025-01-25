@@ -1,5 +1,5 @@
 {
-    "default_model": "RedBlueFantasy_ponyv40.safetensors",
+    "default_model": "kegantPDXL_v30.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -36,9 +36,11 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "RedBlueFantasy_ponyv40.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/RedBlueFantasy_ponyv40.safetensors"
+        "kegantPDXL_v30.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/kegantPDXL_v30.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads":  {},
+    "lora_downloads":  {
+        "Hyper-SDXL-12steps-CFG-lora.safetensors": "https://huggingface.co/ByteDance/Hyper-SD/resolve/main/Hyper-SDXL-12steps-CFG-lora.safetensors"
+    },
     "previous_default_models": []
 }
