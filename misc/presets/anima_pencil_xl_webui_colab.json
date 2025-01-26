@@ -4,23 +4,23 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "None",
+            "EtherPDXLStyleXL.safetensors",
             1.0
         ],
         [
-            "None",
+            "Kegant_Style.safetensors",
             1.0
         ],
         [
-            "None",
+            "Red.safetensors",
             1.0
         ],
         [
-            "None",
+            "incase_new_style_red_ill.safetensors",
             1.0
         ],
         [
-            "None",
+            "midjourney_epic_art_illustriousXL.safetensors",
             1.0
         ]
     ],
@@ -41,6 +41,13 @@
         "spatterxlIllustriousxl_v17.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/spatterxlIllustriousxl_v17.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "EtherPDXLStyleXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/EtherPDXLStyleXL.safetensors"
+        "AnatoFinnstarkIXL_v2.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/AnatoFinnstarkIXL_v2.safetensors"
+        "Kegant_Style.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/Kegant_Style.safetensors"
+        "Red.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/Red.safetensors"
+        "incase_new_style_red_ill.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/incase_new_style_red_ill.safetensors"
+        "midjourney_epic_art_illustriousXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/midjourney_epic_art_illustriousXL.safetensors"
+    },
     "previous_default_models": []
 }
