@@ -42,11 +42,11 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "EtherPDXLStyleXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/EtherPDXLStyleXL.safetensors"
-        "AnatoFinnstarkIXL_v2.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/AnatoFinnstarkIXL_v2.safetensors"
-        "Kegant_Style.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/Kegant_Style.safetensors"
-        "Red.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/Red.safetensors"
-        "incase_new_style_red_ill.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/incase_new_style_red_ill.safetensors"
+        "EtherPDXLStyleXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/EtherPDXLStyleXL.safetensors",
+        "AnatoFinnstarkIXL_v2.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/AnatoFinnstarkIXL_v2.safetensors",
+        "Kegant_Style.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/Kegant_Style.safetensors",
+        "Red.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/Red.safetensors",
+        "incase_new_style_red_ill.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/incase_new_style_red_ill.safetensors",
         "midjourney_epic_art_illustriousXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/midjourney_epic_art_illustriousXL.safetensors"
     },
     "previous_default_models": []
