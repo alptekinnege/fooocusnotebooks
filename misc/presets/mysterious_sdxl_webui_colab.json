@@ -1,10 +1,10 @@
 {
-    "default_model": "mysterious_sdxl.safetensors",
+    "default_model": "John6666_beyond-experimental-v292-sdxl.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "Ethereal_Gothic_Renaissance.safetensors",
             0.1
         ],
         [
@@ -38,11 +38,11 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "mysterious_sdxl.safetensors": "https://civitai.com/api/download/models/149020?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "John6666_beyond-experimental-v292-sdxl.safetensors": "https://huggingface.co/Alptekinege/sdxlchecl/resolve/main/John6666_beyond-experimental-v292-sdxl.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "Ethereal_Gothic_Renaissance.safetensors": "https://civitai.com/api/download/models/1204461?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
     ]
