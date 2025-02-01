@@ -4,7 +4,7 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "Ethereal_Gothic_Renaissance.safetensors",
+            "none",
             0.1
         ],
         [
@@ -41,9 +41,7 @@
         "John6666_beyond-experimental-v292-sdxl.safetensors": "https://huggingface.co/Alptekinege/sdxlchecl/resolve/main/John6666_beyond-experimental-v292-sdxl.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "Ethereal_Gothic_Renaissance.safetensors": "https://civitai.com/api/download/models/1204461?type=Model&format=SafeTensor"
-    },
+    "lora_downloads": {},
     "previous_default_models": [
     ]
 }
