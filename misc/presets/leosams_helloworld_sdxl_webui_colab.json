@@ -4,23 +4,23 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "aidmaMidjourneyV6.1-v0.1.safetensors",
+            "none",
             1.0
         ],
         [
-            "xl_more_art-full_v1.safetensors",
+            "none",
             1.0
         ],
         [
-            "boringRealism_primaryV4.safetensors",
+            "none",
             1.0
         ],
         [
-            "add-detail-xl.safetensors",
+            "none",
             1.0
         ],
         [
-            "aidmaFluxStyleXL-v0.2.safetensors",
+            "none",
             1.0
         ]
     ],
@@ -41,13 +41,7 @@
         "leosamsHelloworldXL_helloworldXL70.safetensors": "https://civitai.com/api/download/models/570138?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "xl_more_art-full_v1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/xl_more_art-full_v1.safetensors",
-        "boringRealism_primaryV4.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/boringRealism_primaryV4.safetensors",
-        "aidmaFluxStyleXL-v0.2.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/aidmaFluxStyleXL-v0.2.safetensors",
-        "aidmaMidjourneyV6.1-v0.1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/aidmaMidjourneyV6.1-v0.1.safetensors",
-        "add-detail-xl.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/add-detail-xl.safetensors"
-    },
+    "lora_downloads": {},
     "previous_default_models": [
     ]
 }
