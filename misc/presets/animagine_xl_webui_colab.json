@@ -1,5 +1,5 @@
 {
-    "default_model": "animagine-xl-4.0.safetensors",
+    "default_model": "spatterxlIllustriousxl_v17.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "animagine-xl-4.0.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-4.0/resolve/main/animagine-xl-4.0.safetensors"
+        "spatterxlIllustriousxl_v17.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/spatterxlIllustriousxl_v17.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
