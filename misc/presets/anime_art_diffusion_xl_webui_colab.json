@@ -1,5 +1,5 @@
 {
-    "default_model": "AnimeArtDiffusion_XL_Alpha2.safetensors",
+    "default_model": "NoobAI-XL-v1.1.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "AnimeArtDiffusion_XL_Alpha2.safetensors": "https://civitai.com/api/download/models/127055?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "NoobAI-XL-v1.1.safetensors": "https://huggingface.co/Laxhar/noobai-XL-1.1/resolve/main/NoobAI-XL-v1.1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
