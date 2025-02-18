@@ -1,5 +1,5 @@
 {
-    "default_model": "deepblue_xl_v150.safetensors",
+    "default_model": "vixonsNoobIllust_illustV10Merge.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "deepblue_xl_v150.safetensors": "https://civitai.com/api/download/models/323144"
+        "vixonsNoobIllust_illustV10Merge.safetensors": "https://civitai.com/api/download/models/1418728?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
