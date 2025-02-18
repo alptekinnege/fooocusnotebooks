@@ -12,7 +12,7 @@
             1.0
         ],
         [
-            "RetroAnimeILXL.safetensors",
+            "",
             1.0
         ],
         [
@@ -41,10 +41,6 @@
         "illustriousPencilXL_v320.safetensors": "https://civitai.com/api/download/models/1425904?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "srdxl_v2_7_7_for_IllustriousXL_v01.safetensors": "https://civitai.com/api/download/models/986237?type=Model&format=SafeTensor",
-        "HeavyTechILXL.safetensors": "https://civitai.com/api/download/models/1268691?type=Model&format=SafeTensor",
-        "RetroAnimeILXL.safetensors": "https://civitai.com/api/download/models/1340859?type=Model&format=SafeTensor"
-    },
+    "lora_downloads": {},
     "previous_default_models": []
 }
