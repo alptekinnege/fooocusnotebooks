@@ -1,18 +1,18 @@
 {
-    "default_model": "artium_v20.safetensors",
+    "default_model": "illustriousPencilXL_v320.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "None",
+            "srdxl_v2_7_7_for_IllustriousXL_v01.safetensors",
             1.0
         ],
         [
-            "None",
+            "HeavyTechILXL.safetensors",
             1.0
         ],
         [
-            "None",
+            "RetroAnimeILXL.safetensors",
             1.0
         ],
         [
@@ -38,9 +38,13 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "artium_v20.safetensors": "https://civitai.com/api/download/models/277071"
+        "illustriousPencilXL_v320.safetensors": "https://civitai.com/api/download/models/1425904?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "srdxl_v2_7_7_for_IllustriousXL_v01.safetensors": "https://civitai.com/api/download/models/986237?type=Model&format=SafeTensor",
+        "HeavyTechILXL.safetensors": "https://civitai.com/api/download/models/1268691?type=Model&format=SafeTensor",
+        "RetroAnimeILXL.safetensors": "https://civitai.com/api/download/models/1340859?type=Model&format=SafeTensor"
+    },
     "previous_default_models": []
 }
