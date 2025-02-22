@@ -1,5 +1,5 @@
 {
-    "default_model": "vixonsNoobIllust_illustV10Merge.safetensors",
+    "default_model": "janku-v1-illustrious-noobai-nsfw-mix-v10-sdxl.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "vixonsNoobIllust_illustV10Merge.safetensors": "https://civitai.com/api/download/models/1418728?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "janku-v1-illustrious-noobai-nsfw-mix-v10-sdxl.safetensors": "https://civitai.com/api/download/models/1441401?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
