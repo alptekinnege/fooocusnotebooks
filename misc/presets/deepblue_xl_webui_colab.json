@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "janku-v1-illustrious-noobai-nsfw-mix-v10-sdxl.safetensors": "https://civitai.com/api/download/models/1441401?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "janku-v1-illustrious-noobai-nsfw-mix-v10-sdxl.safetensors": "https://civitai.com/api/download/models/1441401?type=Model&format=SafeTensor&size=full&fp=fp16?token=43bb32496994f57c737b1d0a939d6859"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
