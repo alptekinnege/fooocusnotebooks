@@ -1,5 +1,5 @@
 {
-    "default_model": "janku-v1-illustrious-noobai-nsfw-mix-v10-sdxl.safetensors",
+    "default_model": "vixonsNoobIllust_illustV10Merge.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "janku-v1-illustrious-noobai-nsfw-mix-v10-sdxl.safetensors": "https://civitai.com/api/download/models/1441401?type=Model&format=SafeTensor&size=full&fp=fp16?token=43bb32496994f57c737b1d0a939d6859"
+        "vixonsNoobIllust_illustV10Merge.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/vixonsNoobIllust_illustV10Merge.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
