@@ -1,5 +1,5 @@
 {
-    "default_model": "cherry_picker_xl.safetensors",
+    "default_model": "ageOfChimerasPONYNOOB_v3.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "cherry_picker_xl.safetensors": "https://civitai.com/api/download/models/149660?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "ageOfChimerasPONYNOOB_v3.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/ageOfChimerasPONYNOOB_v3.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
