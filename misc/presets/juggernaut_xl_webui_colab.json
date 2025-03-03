@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "dhxlV10_v10.safetensors"": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/dhxlV10_v10.safetensors"
+        "dhxlV10_v10.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/dhxlV10_v10.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
