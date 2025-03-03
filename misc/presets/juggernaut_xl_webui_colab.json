@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernaut_xl_v8.safetensors",
+    "default_model": "dhxlV10_v10.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,11 +38,13 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernaut_xl_v8.safetensors": "https://civitai.com/api/download/models/288982?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "dhxlV10_v10.safetensors"": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/dhxlV10_v10.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "Dark_Fantasy.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/Dark_Fantasy.safetensors",
+        "20250301-1740792982117-000010.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/20250301-1740792982117-000010.safetensors",
+        "20250301-1740796511535-000010.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/20250301-1740796511535-000010.safetensors"
     },
     "previous_default_models": [
     ]
