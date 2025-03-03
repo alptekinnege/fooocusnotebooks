@@ -1,5 +1,5 @@
 {
-    "default_model": "counterfeit_xl.safetensors",
+    "default_model": "John6666_beyond-experimental-v292-sdxl.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "counterfeit_xl.safetensors": "https://civitai.com/api/download/models/146761?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "John6666_beyond-experimental-v292-sdxl.safetensors": "https://huggingface.co/John6666/safetensors_converting_test/resolve/main/John6666_beyond-experimental-v292-sdxl.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
