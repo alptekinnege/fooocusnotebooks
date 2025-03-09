@@ -1,5 +1,5 @@
 {
-    "default_model": "parchartxl_v20.safetensors",
+    "default_model": "waiSHUFFLENOOB_vPred20.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "parchartxl_v20.safetensors": "https://civitai.com/api/download/models/318677?type=Model&format=SafeTensor"
+        "waiSHUFFLENOOB_vPred20.safetensors": "https://civitai.com/api/download/models/1494366?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
