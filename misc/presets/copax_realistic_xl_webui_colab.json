@@ -1,10 +1,10 @@
 {
-    "default_model": "copax_realistic_xl.safetensors",
+    "default_model": "comradeshipXL_v17t4.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "MJ52.safetensors",
             0.1
         ],
         [
@@ -38,11 +38,11 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "copax_realistic_xl.safetensors": "https://civitai.com/api/download/models/133549?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "comradeshipXL_v17t4.safetensors": "https://huggingface.co/Alptekinege/testdepo/resolve/main/comradeshipXL_v17t4.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "MJ52.safetensors": "https://huggingface.co/Alptekinege/testdepo/resolve/main/MJ52.safetensors"
     },
     "previous_default_models": [
     ]
