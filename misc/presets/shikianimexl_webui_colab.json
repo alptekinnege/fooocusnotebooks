@@ -1,5 +1,5 @@
 {
-    "default_model": "shikianimexl.safetensors",
+    "default_model": "bigasp_v20.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "shikianimexl.safetensors": "https://civitai.com/api/download/models/129369?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "bigasp_v20.safetensors": "https://huggingface.co/Alptekinege/testdepo/resolve/main/bigasp_v20.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
