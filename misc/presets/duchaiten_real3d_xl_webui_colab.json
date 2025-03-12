@@ -1,5 +1,5 @@
 {
-    "default_model": "duchaiten_real3d_xl_v20.safetensors",
+    "default_model": "proteus_v06.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -29,7 +29,7 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "1girl, ",
+    "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "duchaiten_real3d_xl_v20.safetensors": "https://civitai.com/api/download/models/393880?&token=43529ae74264d3e8f68668780acd048f"
+        "proteus_v06.safetensors": "https://huggingface.co/Alptekinege/testdepo/resolve/main/proteus_v06.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
