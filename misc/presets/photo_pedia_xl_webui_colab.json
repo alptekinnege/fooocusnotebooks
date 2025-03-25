@@ -1,5 +1,5 @@
 {
-    "default_model": "photo_pedia_xl_v45.safetensors",
+    "default_model": "comradeshipXL_v14k1a.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "photo_pedia_xl_v45.safetensors": "https://civitai.com/api/download/models/259323?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "comradeshipXL_v14k1a.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/comradeshipXL_v14k1a.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
