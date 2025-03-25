@@ -47,7 +47,7 @@
         "FrankFrazettaIL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/FrankFrazettaIL.safetensors",
         "Particles_Style_SDXL.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Particles_Style_SDXL.safetensors",
         "UltraAlbum-000007.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/UltraAlbum-000007.safetensors",
-        "AdvancedEnhancerXLv2.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/AdvancedEnhancerXLv2.safetensors"
+        "sdxl_lightning_8step_lora.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors"
     },
     "previous_default_models": []
 }
