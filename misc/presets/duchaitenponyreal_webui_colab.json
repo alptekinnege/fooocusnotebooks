@@ -1,5 +1,5 @@
 {
-    "default_model": "spicaXLIllustrious_v10.safetensors",
+    "default_model": "comradeshipXL_v14k1a.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -36,7 +36,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "spicaXLIllustrious_v10.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/spicaXLIllustrious_v10.safetensors"
+        "comradeshipXL_v14k1a.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/comradeshipXL_v14k1a.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {
