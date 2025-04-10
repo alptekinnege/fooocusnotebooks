@@ -42,7 +42,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "eqvae.safetensors": "https://huggingface.co/KBlueLeaf/EQ-SDXL-VAE/resolve/main/diffusion_pytorch_model.safetensors"
+        "diffusion_pytorch_model.safetensors": "https://huggingface.co/KBlueLeaf/EQ-SDXL-VAE/resolve/main/diffusion_pytorch_model.safetensors"
     },
     "previous_default_models": []
 }
