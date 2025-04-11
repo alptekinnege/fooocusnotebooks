@@ -42,7 +42,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "diffusion_pytorch_model.safetensors": "https://huggingface.co/KBlueLeaf/EQ-SDXL-VAE/resolve/main/diffusion_pytorch_model.safetensors",
         "LOLHorrorsplashartsMIX.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/LOLHorrorsplashartsMIX.safetensors",
         "LORstyleIL-V1.0-000014.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/LORstyleIL-V1.0-000014.safetensors",
         "LeagueOfLegendsIL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/LeagueOfLegendsIL.safetensors",
