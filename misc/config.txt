@@ -2,7 +2,7 @@
     "path_loras": "/content/drive/MyDrive/fooocus/loras",
     "path_embeddings": "/content/drive/MyDrive/fooocus/embeddings",
     "path_vae_approx": "/content/drive/MyDrive/fooocus/vae_approx",
-     "path_vae": "/content/drive/MyDrive/fooocus/vae_approx",
+    "path_vae": "/content/drive/MyDrive/fooocus/vae",
     "path_upscale_models": "/content/drive/MyDrive/fooocus/upscale_models",
     "path_inpaint": "/content/drive/MyDrive/fooocus/inpaint",
     "path_controlnet": "/content/drive/MyDrive/fooocus/controlnet",
