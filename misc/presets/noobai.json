@@ -1,11 +1,11 @@
 {
-    "default_model": "duchaiten_aiart_sdxl.safetensors",
+    "default_model": "NoobAI-XL-Vpred-v1.0.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            "None",
+            1.0
         ],
         [
             "None",
@@ -26,8 +26,8 @@
     ],
     "default_cfg_scale": 4.0,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m_sde_gpu",
-    "default_scheduler": "karras",
+    "default_sampler": "euler",
+    "default_scheduler": "normal",
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
@@ -38,12 +38,10 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "duchaiten_aiart_sdxl.safetensors": "https://civitai.com/api/download/models/136754?type=Model&format=SafeTensor&size=full&fp=fp32"
+        "NoobAI-XL-Vpred-v1.0.safetensors": "https://huggingface.co/Laxhar/noobai-XL-Vpred-1.0/resolve/main/NoobAI-XL-Vpred-v1.0.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
-    },
+    "lora_downloads": {},
     "previous_default_models": [
     ]
 }
