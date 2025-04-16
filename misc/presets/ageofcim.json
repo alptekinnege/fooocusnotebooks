@@ -41,13 +41,6 @@
         "ageOfChimerasPONYNOOB_v3.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/ageOfChimerasPONYNOOB_v3.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "Sharp%20VAE%20SDXL%20Hard.safetensors": "https://huggingface.co/Anzhc/Anzhcs-VAEs/resolve/main/Sharp%20VAE%20SDXL%20Hard.safetensors",
-        "Dark%20VAE%20SDXL%20Hard.safetensors": "https://huggingface.co/Anzhc/Anzhcs-VAEs/resolve/main/Dark%20VAE%20SDXL%20Hard.safetensors",
-        "AAA%20Anime%20VAE%20SDXL%20v2.safetensors": "https://huggingface.co/Anzhc/Anzhcs-VAEs/resolve/main/AAA%20Anime%20VAE%20SDXL%20v2.safetensors",
-        "League_of_Legends__illustrious-XL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/League_of_Legends__illustrious-XL.safetensors",
-        "dark_fantasy_anime_illustriousXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/dark_fantasy_anime_illustriousXL.safetensors",
-        "ArmorPunkILLUSTRIOUS.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/ArmorPunkILLUSTRIOUS.safetensors"
-    },
+    "lora_downloads": {},
     "previous_default_models": []
 }
