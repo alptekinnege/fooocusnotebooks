@@ -41,6 +41,8 @@
         "ageOfChimerasPONYNOOB_v3.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/ageOfChimerasPONYNOOB_v3.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "ip-adapter-plus_sdxl_vit-h2.bin": "https://huggingface.co/kataragi/Noob_ipadapter/resolve/main/ip_adapter_test_400000.bin"
+    },
     "previous_default_models": []
 }
