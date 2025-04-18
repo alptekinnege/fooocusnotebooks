@@ -42,7 +42,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "ip-adapter-plus_sdxl_vit-h2.bin": "https://huggingface.co/kataragi/Noob_ipadapter/resolve/main/ip_adapter_test_400000.bin"
+        "ip-adapter-plus_sdxl_vit-h.bin": "https://huggingface.co/kataragi/Noob_ipadapter/resolve/main/ip_adapter_Noobtest_800000.bin"
     },
     "previous_default_models": []
 }
