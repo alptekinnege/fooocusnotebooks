@@ -1,0 +1,64 @@
+{
+    "default_model": "illuspony_v10.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 7.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "1girl, ",
+    "default_prompt_negative": "",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Negative",
+        "Fooocus Masterpiece"
+    ],
+    "default_aspect_ratio": "896*1152",
+    "checkpoint_downloads": {
+        "illuspony_v10.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/illuspony_v10.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+              "vagabonds12.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/vagabonds12.safetensors",
+              "studio_ghibliILL.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/studio_ghibliILL.safetensors",
+              "timeless-000019.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/timeless-000019.safetensors",
+              "sbtE8A7A6E58F91E8AF8D.LXwd.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/sbtE8A7A6E58F91E8AF8D.LXwd.safetensors",
+              "iLLMythM4gicalL1nes.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/iLLMythM4gicalL1nes.safetensors",
+              "fuyumur4s4ki_style.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/fuyumur4s4ki_style.safetensors",
+              "-%20iLL%20-%20the_edgy_mech_V3.0.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/-%20iLL%20-%20the_edgy_mech_V3.0.safetensors",
+              "-%20iLL%20-%20the_edgy_mech_V3.0.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/0d28507d-6abc-443d-9c00-5f399ab8c7eb.TA_trained.safetensors",
+              "Ayami%20Kojima_illustriousXL.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/Ayami%20Kojima_illustriousXL.safetensors",
+              "DarkFantasy_v3_Buns.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/DarkFantasy_v3_Buns.safetensors",
+              "dark-moody-ill-000012.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/dark-moody-ill-000012.safetensors",
+              "conti_v2-000012.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/conti_v2-000012.safetensors",
+              "USNR_STYLE_ILL_V1_lokr3-000024.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/USNR_STYLE_ILL_V1_lokr3-000024.safetensors",
+              "Old_Yu-Gi-Oh_card_style_r1.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/Old_Yu-Gi-Oh_card_style_r1.safetensors",
+              "OTZZK2Rpbm8rZzAxNTgra3VtYWgrbnl0ZQ%3D%3D-illustriousXL_v01_V1-CAME.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/OTZZK2Rpbm8rZzAxNTgra3VtYWgrbnl0ZQ%3D%3D-illustriousXL_v01_V1-CAME.safetensors",
+              "HerrscherAGGA2025_NavarroCabrera-Style_IS_V1.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/HerrscherAGGA2025_NavarroCabrera-Style_IS_V1.safetensors",
+              "GustavKlimtILL.safetensors": "https://huggingface.co/Alptekinege/l0r4/resolve/main/GustavKlimtILL.safetensors"
+    },
+    "previous_default_models": []
+}
