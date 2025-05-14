@@ -31,11 +31,7 @@
     "default_performance": "Speed",
     "default_prompt": "very awa, masterpiece, best quality, year 2024, newest, highres, absurdres, very aesthetic, amazing quality, high resolution, ultra-detailed, detailed, score_9,",
     "default_prompt_negative": "worst aesthetic, good quality, normal quality, low quality, bad quality, worst quality, mid, early, old, adversarial noise, ai-generated, ai-assisted, stable diffusion, lowres, low res, monochrome, clone",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Negative",
-        "Fooocus Masterpiece"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
         "ageOfChimerasPONYNOOB_v3.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/ageOfChimerasPONYNOOB_v3.safetensors"
