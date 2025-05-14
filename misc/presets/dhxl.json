@@ -42,9 +42,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Dark_Fantasy.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/Dark_Fantasy.safetensors",
-        "20250301-1740792982117-000010.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/20250301-1740792982117-000010.safetensors",
-        "20250301-1740796511535-000010.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/20250301-1740796511535-000010.safetensors"
+        "pony.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/pony.safetensors"
     },
     "previous_default_models": [
     ]
