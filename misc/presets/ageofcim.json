@@ -41,6 +41,9 @@
         "ageOfChimerasPONYNOOB_v3.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/ageOfChimerasPONYNOOB_v3.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "mac_bacani-000009.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/mac_bacani-000009.safetensors",
+        "mac_bacani.safetensors": "https://huggingface.co/Alptekinege/loratests/resolve/main/mac_bacani.safetensors"
+    },
     "previous_default_models": []
 }
