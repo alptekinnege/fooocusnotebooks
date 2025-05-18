@@ -1,5 +1,5 @@
 {
-    "default_model": "dynavision_xl_v061.safetensors",
+    "default_model": "kegantPDXL_v20.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "dynavision_xl_v061.safetensors": "https://civitai.com/api/download/models/297740"
+        "kegantPDXL_v20.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/kegantPDXL_v20.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
