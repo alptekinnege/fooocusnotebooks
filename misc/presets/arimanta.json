@@ -1,11 +1,11 @@
 {
-    "default_model": "beyondExperimental_v292.safetensors",
+    "default_model": "Araminta_gv4.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            "None",
+            1.0
         ],
         [
             "None",
@@ -31,18 +31,14 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "beyondExperimental_v292.safetensors": "https://huggingface.co/Alptekinege/beyondExperimental_v292/resolve/main/beyondExperimental_v292.safetensors"
+        "Araminta_gv4.safetensors": "https://civitai.com/api/download/models/1645959?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "araminta-amazingpeople.safetensors": "https://civitai.com/api/download/models/632107?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
     ]
