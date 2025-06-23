@@ -1,5 +1,5 @@
 {
-    "default_model": "comradeshipXL_v14k1a.safetensors",
+    "default_model": "spectralmixv20.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "comradeshipXL_v14k1a.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/comradeshipXL_v14k1a.safetensors"
+        "spectralmixv20.safetensors": "https://civitai.com/api/download/models/1575427?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=b8a98f2ee6d66ad8ed872a183f115517"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
