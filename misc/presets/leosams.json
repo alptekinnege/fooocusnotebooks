@@ -4,23 +4,23 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "none",
+            "None",
             1.0
         ],
         [
-            "none",
+            "None",
             1.0
         ],
         [
-            "none",
+            "None",
             1.0
         ],
         [
-            "none",
+            "None",
             1.0
         ],
         [
-            "none",
+            "None",
             1.0
         ]
     ],
