@@ -37,6 +37,15 @@
         "John6666_age-of-chimeras-pony-noob-illustrious-v2-and-mode-v4-sdxl.safetensors": "https://huggingface.co/Alptekinege/ageofcim4_fp8/resolve/main/John6666_age-of-chimeras-pony-noob-illustrious-v2-and-mode-v4-sdxl.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "ILXL_Realism_Slider_V.1.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/ILXL_Realism_Slider_V.1.safetensors",
+        "StS-Illustrious-Detail-Slider-v1.0.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/StS-Illustrious-Detail-Slider-v1.0.safetensors",
+        "StudioGhibliBigIL.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/StudioGhibliBigIL.safetensors",
+        "realistic%20filter%20%5BIL%5D.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/realistic%20filter%20%5BIL%5D.safetensors",
+        "aidmaImageUpgraderSDXL-v0.3.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/aidmaImageUpgraderSDXL-v0.3.safetensors",
+        "realistic%20filter%20%5BIL%5D.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/realistic%20filter%20%5BIL%5D.safetensors",
+        "add_sharpness_XL.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/add_sharpness_XL.safetensors",
+        "Vampire_Hunter_D_Illustrious.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/Vampire_Hunter_D_Illustrious.safetensors"
+    },
     "previous_default_models": []
 }
