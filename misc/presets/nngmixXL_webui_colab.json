@@ -39,6 +39,16 @@
         "nngmixXL_v42.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/nngmixXL_v42.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads":             {},
+    "lora_downloads":{
+        "Unfazed%20CybrSync%20-%20IL.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/Unfazed%20CybrSync%20-%20IL.safetensors ",
+        "Unfazed%20CybrSync%20-%20SDXL%20v1.0.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/Unfazed%20CybrSync%20-%20SDXL%20v1.0.safetensors ",
+        "Unfazed%20CybrSync%20pony%20v1.0.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/Unfazed%20CybrSync%20pony%20v1.0.safetensors ",
+        "illustriousXLv01_stabilizer_v1.185c.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/illustriousXLv01_stabilizer_v1.185c.safetensors ",
+        "AddMicroDetails_NoobAI_v1.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/AddMicroDetails_NoobAI_v1.safetensors ",
+        "lighting_v2.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/lighting_v2.safetensors ",
+        "Dramatic%20Lighting%20Slider.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/Dramatic%20Lighting%20Slider.safetensors ",
+        "Hyperrealistic_illustrious.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/Hyperrealistic_illustrious.safetensors ",
+        "Semi-realism_illustrious.safetensors": "https://huggingface.co/Alptekinege/alora/resolve/main/Semi-realism_illustrious.safetensors "
+    },
     "previous_default_models": []
 }
