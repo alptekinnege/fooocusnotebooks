@@ -1,5 +1,5 @@
 {
-    "default_model": "xxmix_9realistic_sdxl.safetensors",
+    "default_model": "cosxl.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "xxmix_9realistic_sdxl.safetensors": "https://civitai.com/api/download/models/145282?type=Model&format=SafeTensor&size=full&fp=bf16"
+        "cosxl.safetensors": "https://huggingface.co/TIGER-Lab/cosxl/resolve/main/cosxl.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
