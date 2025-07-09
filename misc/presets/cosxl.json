@@ -38,7 +38,8 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "cosxl.safetensors": "https://huggingface.co/TIGER-Lab/cosxl/resolve/main/cosxl.safetensors"
+        "cosxl.safetensors": "https://huggingface.co/TIGER-Lab/cosxl/resolve/main/cosxl.safetensors",
+        "ΣΙΗ-1.5.safetensors": "https://civitai.com/api/download/models/1976509?type=Model&format=SafeTensor&size=full&fp=bf16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
