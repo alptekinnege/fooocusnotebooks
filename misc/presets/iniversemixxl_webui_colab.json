@@ -1,5 +1,5 @@
 {
-    "default_model": "kegantPDXL_v20.safetensors",
+    "default_model": "kegant_v40NAIXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -31,12 +31,10 @@
     "default_performance": "Speed",
     "default_prompt": "1girl, ",
     "default_prompt_negative": "pony",
-    "default_styles": [
-        "Fooocus Pony"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "kegantPDXL_v20.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/kegantPDXL_v20.safetensors"
+        "kegant_v40NAIXL.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/kegant_v40NAIXL.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {
