@@ -37,9 +37,6 @@
         "kegant_v40NAIXL.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/kegant_v40NAIXL.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads":             {
-        "Particles_Style_SDXL.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/Particles_Style_SDXL.safetensors",
-        "glowneon_xl_v1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/glowneon_xl_v1.safetensors"
-    },
+    "lora_downloads":             {},
     "previous_default_models": []
 }
