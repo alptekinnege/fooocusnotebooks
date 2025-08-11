@@ -42,10 +42,7 @@
 		"NoobAI-XL-Vpred-v1.0.safetensors": "https://huggingface.co/Laxhar/noobai-XL-Vpred-1.0/resolve/main/NoobAI-XL-Vpred-v1.0.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "extremely%20detailed.safetensors": "https://huggingface.co/ntc-ai/SDXL-LoRA-slider.extremely-detailed/resolve/main/extremely%20detailed.safetensors",
-		"MS-LC-EQ-D-VR%20VAE%20B5.safetensors": "https://huggingface.co/Anzhc/MS-LC-EQ-D-VR_VAE/resolve/main/MS-LC-EQ-D-VR%20VAE%20B5.safetensors"
-    },
+    "lora_downloads": {},
     "previous_default_models": [
     ]
 }
