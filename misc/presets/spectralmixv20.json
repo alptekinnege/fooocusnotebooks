@@ -38,8 +38,8 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "spectralmixv20.safetensors": "https://civitai.com/api/download/models/1575427?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=b8a98f2ee6d66ad8ed872a183f115517"
-        "3diluxok_v40.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/3diluxok_v40.safetensors"
+        "spectralmixv20.safetensors": "https://civitai.com/api/download/models/1575427?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=b8a98f2ee6d66ad8ed872a183f115517",
+        "3diluxok_v40.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/3diluxok_v40.safetensors",
         "willysNoobRealism_vPredAlpha.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/willysNoobRealism_vPredAlpha.safetensors"
     },
     "embeddings_downloads": {},
