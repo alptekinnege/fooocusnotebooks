@@ -1,5 +1,5 @@
 {
-    "default_model": "vixonsNoobIllust_illustV10Merge.safetensors",
+    "default_model": "annnslmixillustrious_v51.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "vixonsNoobIllust_illustV10Merge.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/vixonsNoobIllust_illustV10Merge.safetensors"
+        "annnslmixillustrious_v51.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/annnslmixillustrious_v51.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
