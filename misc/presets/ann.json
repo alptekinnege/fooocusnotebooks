@@ -41,6 +41,31 @@
         "annnslmixillustrious_v51.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/annnslmixillustrious_v51.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "RMSDXL_Creative.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/RMSDXL_Creative.safetensors",
+        "edgRenaissanceXL.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/edgRenaissanceXL.safetensors",
+        "EpicF4nta5yXL.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/EpicF4nta5yXL.safetensors",
+        "GustaveDore_StyleXLv6.1.safetensors": "https://huggingface.co/Alptekinege/loras/resolve/main/GustaveDore_StyleXLv6.1.safetensors",
+        "qianfenghappy-000012.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/qianfenghappy-000012.safetensors",
+        "HunterDBloodlustILXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/HunterDBloodlustILXL.safetensors",
+        "LeonardoDaVinciStyle-IL.V1.0-000012.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/LeonardoDaVinciStyle-IL.V1.0-000012.safetensors",
+        "YOSHITAKA_AMANO_IL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/YOSHITAKA_AMANO_IL.safetensors",
+        "dark_comic_fantasy_noir_illustriousXL-000021.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/dark_comic_fantasy_noir_illustriousXL-000021.safetensors",
+        "kentaro_miura_style_illustriousXL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/kentaro_miura_style_illustriousXL.safetensors",
+        "nai_ILL.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/nai_ILL.safetensors",
+        "realistic%20filter%20%5BIL%5D.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/realistic%20filter%20%5BIL%5D.safetensors",
+        "yusuke_murata_scenery_illustriousXL-000021.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/yusuke_murata_scenery_illustriousXL-000021.safetensors",
+        "zy_illustrious_Realism_Enhancer_v1.safetensors": "https://huggingface.co/Alptekinege/iluslora/resolve/main/zy_illustrious_Realism_Enhancer_v1.safetensors",
+        "detailed.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/detailed.safetensors",
+        "il_brightness_slider_d1.safetensors": "https://huggingface.co/Alptekinege/loradownloads/resolve/main/il_brightness_slider_d1.safetensors",
+        "Face_Enhancer_Illustrious.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/Face_Enhancer_Illustrious.safetensors",
+        "RealSkin_xxXL_v1.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/RealSkin_xxXL_v1.safetensors",
+        "high_detailILL.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/high_detailILL.safetensors",
+        "zigouILL.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/zigouILL.safetensors",
+        "Add_Details_v1.2.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/Add_Details_v1.2.safetensors",
+        "NARUTO_illustriousXL.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/NARUTO_illustriousXL.safetensors",
+        "Ayami%20Kojima_illustriousXL.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/Ayami%20Kojima_illustriousXL.safetensors",
+        "BSS_GLSHS4.safetensors": "https://huggingface.co/Alptekinege/lorrras/resolve/main/BSS_GLSHS4.safetensors"
+    },
     "previous_default_models": []
 }
