@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "2182048-62-seeleNoobaiSDXL_v20-butterfly_merge-it_121_best.safetensors": "https://huggingface.co/Enferlain/juice/resolve/main/noob/2048/v2/2182048-62-seeleNoobaiSDXL_v20-butterfly_merge-it_121_best.safetensors",
+        "ΣΙΗ-2048b.safetensors": "https://huggingface.co/Enferlain/juice/resolve/main/noob/%CE%A3%CE%99%CE%97-2048b.safetensors",
 		"mechamix_v10.safetensors": "https://huggingface.co/avaco/MechaMix/resolve/main/mechamix_v10.safetensors"
     },
     "embeddings_downloads": {},
