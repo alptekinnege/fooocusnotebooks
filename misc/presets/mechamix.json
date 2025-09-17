@@ -1,5 +1,5 @@
 {
-    "default_model": "ΣΙΗ-1.5.safetensors",
+    "default_model": "2182048-62-seeleNoobaiSDXL_v20-butterfly_merge-it_121_best.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "ΣΙΗ-1.5.safetensors": "https://civitai.com/api/download/models/1976509?type=Model&format=SafeTensor&size=full&fp=bf16",
+        "2182048-62-seeleNoobaiSDXL_v20-butterfly_merge-it_121_best.safetensors": "https://huggingface.co/Enferlain/juice/resolve/main/noob/2048/v2/2182048-62-seeleNoobaiSDXL_v20-butterfly_merge-it_121_best.safetensors",
 		"mechamix_v10.safetensors": "https://huggingface.co/avaco/MechaMix/resolve/main/mechamix_v10.safetensors"
     },
     "embeddings_downloads": {},
