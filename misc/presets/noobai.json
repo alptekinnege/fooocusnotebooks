@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "NoobAI-XL-Vpred-v1.0.safetensors": "https://huggingface.co/Laxhar/noobai-XL-Vpred-1.0/resolve/main/NoobAI-XL-Vpred-v1.0.safetensors"
+        "NoobAI-XL-Vpred-v1.0.safetensors": "https://huggingface.co/Panchovix/noobai-XL-VPred-cyberfixv2-perpendicularcyberfixv2/resolve/main/NoobAI-XL-Vpred-v1.0-perpendicular-cyberfix-v2.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
