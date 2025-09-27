@@ -38,7 +38,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "araminta-amazingpeople.safetensors": "https://civitai.com/api/download/models/632107?type=Model&format=SafeTensor"
+        "dmd2_sdxl_4step_lora_fp16.safetensors": "https://huggingface.co/tianweiy/DMD2/resolve/main/dmd2_sdxl_4step_lora_fp16.safetensors"
     },
     "previous_default_models": [
     ]
