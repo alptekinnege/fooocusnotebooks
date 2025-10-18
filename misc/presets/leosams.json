@@ -41,7 +41,9 @@
         "leosamsHelloworldXL_helloworldXL70.safetensors": "https://civitai.com/api/download/models/570138?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "spo_sdxl_10ep_4k-data_lora_diffusers.safetensors": "https://huggingface.co/SPO-Diffusion-Models/SPO-SDXL_4k-p_10ep_LoRA/resolve/main/spo_sdxl_10ep_4k-data_lora_diffusers.safetensors"
+    },
     "previous_default_models": [
     ]
 }
