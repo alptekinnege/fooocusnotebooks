@@ -34,7 +34,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "John6666_age-of-chimeras-pony-noob-illustrious-v2-and-mode-v4-sdxl.safetensors": "https://huggingface.co/Alptekinege/ageofcim4_fp8/resolve/main/John6666_age-of-chimeras-pony-noob-illustrious-v2-and-mode-v4-sdxl.safetensors"
+        "John6666_age-of-chimeras-pony-noob-illustrious-v2-and-mode-v4-sdxl.safetensors": "https://huggingface.co/Alptekinege/ageofcim4/resolve/main/John6666_age-of-chimeras-pony-noob-illustrious-v2-and-mode-v4-sdxl.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
