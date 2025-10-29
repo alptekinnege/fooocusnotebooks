@@ -1,5 +1,5 @@
 {
-    "default_model": "Alchemist%20256.safetensors",
+    "default_model": "dhxlV10_v10.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
