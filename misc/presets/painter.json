@@ -1,5 +1,5 @@
 {
-    "default_model": "copax_time_less_xl_v9.safetensors",
+    "default_model": "painterliness_naisdxlV02ALPHA.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "copax_time_less_xl_v9.safetensors": "https://civitai.com/api/download/models/293413"
+        "painterliness_naisdxlV02ALPHA.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/painterliness_naisdxlV02ALPHA.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
