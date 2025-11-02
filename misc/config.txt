@@ -1,5 +1,5 @@
 {
-    "path_checkpoints": "../models/checkpoints",
+    "path_checkpoints": "/content/drive/MyDrive/fooocus/checkpoints",
     "path_loras": "/content/drive/MyDrive/fooocus/loras",
     "path_embeddings": "/content/drive/MyDrive/fooocus/embeddings",
     "path_vae_approx": "/content/drive/MyDrive/fooocus/vae_approx",
@@ -10,5 +10,5 @@
     "path_clip_vision": "/content/drive/MyDrive/fooocus/clip_vision",
     "path_upscale_models": "/content/drive/MyDrive/fooocus/upscale_models",
     "path_outputs": "/content/drive/MyDrive/fooocus/outputs",
-    "default_image_number": 1
+    "default_image_number": 2
 }
