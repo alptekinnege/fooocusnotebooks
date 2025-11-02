@@ -1,5 +1,5 @@
 {
-    "default_model": "yamer_mix_xl_v11.safetensors",
+    "default_model": "LS_Pingo_XL_v5_vpred.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "yamer_mix_xl_v11.safetensors": "https://civitai.com/api/download/models/276923"
+        "LS_Pingo_XL_v5_vpred.safetensors": "https://huggingface.co/latent-space-dreams/LS_Pingo_XL/resolve/main/LS_Pingo_XL_v5_vpred.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
