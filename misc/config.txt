@@ -1,4 +1,5 @@
 {
+    "path_checkpoints": "../models/checkpoints",
     "path_loras": "/content/drive/MyDrive/fooocus/loras",
     "path_embeddings": "/content/drive/MyDrive/fooocus/embeddings",
     "path_vae_approx": "/content/drive/MyDrive/fooocus/vae_approx",
