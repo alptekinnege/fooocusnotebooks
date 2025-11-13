@@ -36,7 +36,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "pony_diffusion_v6_xl.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "pony_diffusion_v6_xl.safetensors": "https://huggingface.co/AstraliteHeart/pony-diffusion-v6/resolve/main/v6.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {
