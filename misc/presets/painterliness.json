@@ -1,5 +1,5 @@
 {
-    "default_model": "flarediffusion_v6.safetensors",
+    "default_model": "painterliness_naisdxlV02ALPHA.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -36,7 +36,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "flarediffusion_v6.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/flarediffusion_v6.safetensors"
+        "painterliness_naisdxlV02ALPHA.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/painterliness_naisdxlV02ALPHA.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {
