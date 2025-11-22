@@ -1,5 +1,5 @@
 {
-    "default_model": "GoR_PONY_v5ilustros_H+VAE.safetensors",
+    "default_model": "autismmixSDXL_autismmixPony.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -36,7 +36,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "GoR_PONY_v5ilustros_H+VAE.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/goddessOfRealism_gorPONYV5ilustrosH.safetensors"
+        "autismmixSDXL_autismmixPony.safetensors": "https://huggingface.co/uooogh/autismmixXL/resolve/main/autismmixSDXL_autismmixPony.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads":             {},
