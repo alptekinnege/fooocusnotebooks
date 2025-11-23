@@ -37,7 +37,9 @@
         "irisLuxPolyvalentPrototype_v1051VAEIncluded.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/irisLuxPolyvalentPrototype_v1051VAEIncluded.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+		"GDre-000009.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/GDre-000009.safetensors"
+	},
     "previous_default_models": [
     ]
 }
