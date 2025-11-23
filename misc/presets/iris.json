@@ -1,0 +1,43 @@
+{
+    "default_model": "irisLuxPolyvalentPrototype_v1051VAEIncluded.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "None",
+            1.1
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 4.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [],
+    "default_aspect_ratio": "1024*1024",
+    "checkpoint_downloads": {
+        "irisLuxPolyvalentPrototype_v1051VAEIncluded.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/irisLuxPolyvalentPrototype_v1051VAEIncluded.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {},
+    "previous_default_models": [
+    ]
+}
