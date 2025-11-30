@@ -1,0 +1,48 @@
+{
+    "default_model": "riotdiffusionXL_v4_animaginev3-000001.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "None",
+            1.1
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 4.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [],
+    "default_aspect_ratio": "1024*1024",
+    "checkpoint_downloads": {
+        "riotdiffusionXL_pony-000006.safetensors": "https://huggingface.co/Totsukawaii/RiotDiffusion/resolve/main/riotdiffusionXL_pony-000006.safetensors",
+		"riotdiffusionXL_v4_animaginev3-000001.safetensors": "https://huggingface.co/Totsukawaii/RiotDiffusion/resolve/main/riotdiffusionXL_v4_animaginev3-000001.safetensors",
+		"riotdiffusionXL_v2-step00800000.safetensors": "https://huggingface.co/Totsukawaii/RiotDiffusion/resolve/main/riotdiffusionXL_v2-step00800000.safetensors",
+		"riotdiffusionXL_v3-step00519036.safetensors": "https://huggingface.co/Totsukawaii/RiotDiffusion/resolve/main/riotdiffusionXL_v3-step00519036.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+		"GDre-000009.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/GDre-000009.safetensors"
+	},
+    "previous_default_models": [
+    ]
+}
