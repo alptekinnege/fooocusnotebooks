@@ -34,7 +34,8 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Proteus-RunDiffusion.safetensors": "https://huggingface.co/dataautogpt3/Proteus-RunDiffusion/resolve/main/Proteus-RunDiffusion.safetensors"
+        "Proteus-RunDiffusion.safetensors": "https://huggingface.co/dataautogpt3/Proteus-RunDiffusion/resolve/main/Proteus-RunDiffusion.safetensors",
+        "Karmix-XL-v0.safetensors": "https://huggingface.co/chemwolf/Karmix-XL-v0/resolve/main/Karmix-XL-v0.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
