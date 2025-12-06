@@ -1,5 +1,5 @@
 {
-    "default_model": "Prometheus.safetensors",
+    "default_model": "TempestV0.1-Artistic.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -34,7 +34,8 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Prometheus.safetensors": "https://huggingface.co/dataautogpt3/PrometheusV1/resolve/main/Prometheus.safetensors"
+        "Prometheus.safetensors": "https://huggingface.co/dataautogpt3/PrometheusV1/resolve/main/Prometheus.safetensors",
+		"TempestV0.1-Artistic.safetensors": "https://huggingface.co/dataautogpt3/TempestV0.1/resolve/main/TempestV0.1-Artistic.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
