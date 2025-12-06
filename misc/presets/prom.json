@@ -1,5 +1,5 @@
 {
-    "default_model": "Proteus-RunDiffusion.safetensors",
+    "default_model": "Prometheus.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -34,7 +34,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Karmix-XL-v0.safetensors": "https://huggingface.co/chemwolf/Karmix-XL-v0/resolve/main/Karmix-XL-v0.safetensors"
+        "Prometheus.safetensors": "https://huggingface.co/dataautogpt3/PrometheusV1/resolve/main/Prometheus.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
