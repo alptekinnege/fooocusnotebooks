@@ -1,0 +1,45 @@
+{
+    "default_model": "artUniverse_v70SDXL.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 7.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [],
+    "default_aspect_ratio": "896*1152",
+    "checkpoint_downloads": {
+        "artUniverse_v70SDXL.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/artUniverse_v70SDXL.safetensors",
+		"eventHorizonXL_v30.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/eventHorizonXL_v30.safetensors",
+		"heziLeagueOfLegendsXlV4HEZI_v10.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/heziLeagueOfLegendsXlV4HEZI_v10.safetensors",
+		"TescapedContainmentLAB_v02APEIRON.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/escapedContainmentLAB_v02APEIRON.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {},
+    "previous_default_models": []
+}
