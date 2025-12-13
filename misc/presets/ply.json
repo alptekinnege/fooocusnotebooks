@@ -1,0 +1,60 @@
+{
+    "default_model": "playground-v2.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 2.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m",
+    "default_scheduler": "edm_playground_v2.5",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [
+        "Fooocus V2"
+    ],
+    "default_aspect_ratio": "1024*1024",
+    "default_overwrite_step": -1,
+    "default_inpaint_engine_version": "None",
+    "checkpoint_downloads": {
+        "playground-v2.safetensors": "https://huggingface.co/playgroundai/playground-v2-1024px-aesthetic/resolve/main/playground-v2.fp16.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+		"Biomechanical-01.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/Biomechanical-01.safetensors",
+		"Alien_God_sdxl.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/Alien_God_sdxl.safetensors",
+		"CyberwareByMakeThemComeAlive.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/CyberwareByMakeThemComeAlive.safetensors",
+		"Mecha_Ggorgeous_Armor-000011.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/Mecha_Ggorgeous_Armor-000011.safetensors",
+		"Ninja%20Scroll%20style%20xl%20v1.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/Ninja%20Scroll%20style%20xl%20v1.safetensors",
+		"Octane_Render.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/Octane_Render.safetensors",
+		"Photov3-000008.safetensors": "https://huggingface.co/Alptekinege/loras2026/resolve/main/Photov3-000008.safetensors"
+
+	},
+    "previous_default_models": []
+}
