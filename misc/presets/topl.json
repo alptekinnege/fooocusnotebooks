@@ -1,5 +1,5 @@
 {
-    "default_model": "artUniverse_v70SDXL.safetensors",
+    "default_model": "2dn_naiV1.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -34,10 +34,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "artUniverse_v70SDXL.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/artUniverse_v70SDXL.safetensors",
-		"eventHorizonXL_v30.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/eventHorizonXL_v30.safetensors",
-		"heziLeagueOfLegendsXlV4HEZI_v10.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/heziLeagueOfLegendsXlV4HEZI_v10.safetensors",
-		"TescapedContainmentLAB_v02APEIRON.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/escapedContainmentLAB_v02APEIRON.safetensors"
+        "2dn_naiV1.safetensors": "https://huggingface.co/minaiosu/advokat/resolve/main/2dn_naiV1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
