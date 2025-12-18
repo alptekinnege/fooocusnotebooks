@@ -1,5 +1,5 @@
 {
-    "default_model": "realcartoon_xl_v6.safetensors",
+    "default_model": "NatViS_v2.7.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "realcartoon_xl_v6.safetensors": "https://huggingface.co/7Whitefire7/RealCartoonXL/resolve/main/realcartoonXL_v6.safetensors?download=true"
+        "NatViS_v2.7.safetensors": "https://huggingface.co/nDimensional/NatVis-Natural-Vision-SDXL/resolve/main/NatViS_v2.7.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
