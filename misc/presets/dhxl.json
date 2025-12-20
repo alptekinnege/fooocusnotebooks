@@ -42,7 +42,10 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "dreamshaperxl.safetensors": "https://civitai.com/api/download/models/182209?type=Model&format=SafeTensor"
+        "dreamshaperxl.safetensors": "https://civitai.com/api/download/models/182209?type=Model&format=SafeTensor",
+        "NijiSeven.safetensors": "https://huggingface.co/AshtakaOOf/lora-extract/resolve/main/sdxl/NijiSeven.safetensors",
+        "nijiex_style.safetensors": "https://huggingface.co/AshtakaOOf/lora-extract/resolve/main/sdxl/nijiex_style.safetensors",
+        "UmbraMecha-Ani30.safetensors": "https://huggingface.co/AshtakaOOf/lora-extract/resolve/main/sdxl/UmbraMecha-Ani30.safetensors"
     },
     "previous_default_models": [
     ]
