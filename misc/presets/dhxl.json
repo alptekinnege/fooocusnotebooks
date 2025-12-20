@@ -42,7 +42,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Alchemist%20256.safetensors": "https://huggingface.co/Alptekinege/lorras/resolve/main/Alchemist%20256.safetensors"
+        "dreamshaperxl.safetensors": "https://civitai.com/api/download/models/182209?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
     ]
