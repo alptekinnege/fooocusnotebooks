@@ -1,5 +1,5 @@
 {
-    "default_model": "ΣΙΗ-1.5.safetensors",
+    "default_model": "ΣΙΗ2048b.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,8 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "ΣΙΗ-1.5.safetensors": "https://civitai.com/api/download/models/1976509?type=Model&format=SafeTensor&size=full&fp=bf16",
-		"dhxlV10_v10.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/dhxlV10_v10.safetensors"
+        "ΣΙΗ2048b.safetensors": "https://huggingface.co/Enferlain/juice/resolve/main/noob/%CE%A3%CE%99%CE%97-2048b.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
