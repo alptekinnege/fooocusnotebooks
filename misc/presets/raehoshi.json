@@ -1,5 +1,5 @@
 {
-    "default_model": "illustriousPencilXL_v320.safetensors",
+    "default_model": "raehoshi-illust-xl-8.1-aesthetic.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "illustriousPencilXL_v320.safetensors": "https://civitai.com/api/download/models/1425904?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "raehoshi-illust-xl-8.1-aesthetic.safetensors": "https://huggingface.co/Raelina/Raehoshi-illust-XL-8.1/resolve/main/raehoshi-illust-xl-8.1-aesthetic.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
