@@ -1,10 +1,10 @@
 {
-    "default_model": "John6666_beyond-experimental-v292-sdxl.safetensors",
+    "default_model": "ChenkinNoob-XL-V0.2.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "none",
+            "rw08_base-ill-extract_lyco_xl.safetensors",
             0.1
         ],
         [
@@ -38,10 +38,12 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "John6666_beyond-experimental-v292-sdxl.safetensors": "https://huggingface.co/Alptekinege/sdxlchecl/resolve/main/John6666_beyond-experimental-v292-sdxl.safetensors"
+        "ChenkinNoob-XL-V0.2.safetensors": "https://huggingface.co/ChenkinNoob/ChenkinNoob-XL-V0.2/resolve/main/ChenkinNoob-XL-V0.2.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "rw08_base-ill-extract_lyco_xl.safetensors": "https://huggingface.co/Minthy/RouWei-0.8/resolve/main/rw08_base-ill-extract_lyco_xl.safetensors"
+    },
     "previous_default_models": [
     ]
 }
