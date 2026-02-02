@@ -31,18 +31,16 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "2dGoldFishHighRes_v10.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/2dGoldFishHighRes_v10.safetensors",
 		"vxpIllustrious20_beta2.safetensors": "https://huggingface.co/Alptekinege/checkpoint/resolve/main/vxpIllustrious20_beta2.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+		"4x_NMKD-YandereNeoXL_200k.pth": "https://huggingface.co/KoRo8888/yandereneo/resolve/main/4x_NMKD-YandereNeoXL_200k.pth"
+	},
     "previous_default_models": [
     ]
 }
