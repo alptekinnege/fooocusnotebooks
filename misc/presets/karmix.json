@@ -34,6 +34,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
+        "FlawedCoMixEQ.safetensors": "https://huggingface.co/Bshiblobble/Flawed_CoMIX/resolve/main/FlawedCoMixEQ.safetensors",
         "Karmix-XL-v0.safetensors": "https://huggingface.co/chemwolf/Karmix-XL-v0/resolve/main/Karmix-XL-v0.safetensors"
     },
     "embeddings_downloads": {},
