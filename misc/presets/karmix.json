@@ -1,5 +1,5 @@
 {
-    "default_model": "Karmix-XL-v0.safetensors",
+    "default_model": "FlawedCoMixEQ.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
