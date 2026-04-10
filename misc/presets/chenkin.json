@@ -1,5 +1,5 @@
 {
-    "default_model": "ChenkinNoob-XL-V0.2.safetensors",
+    "default_model": "ChenkinNoob-XL-V0.5.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "ChenkinNoob-XL-V0.2.safetensors": "https://huggingface.co/ChenkinNoob/ChenkinNoob-XL-V0.2/resolve/main/ChenkinNoob-XL-V0.2.safetensors"
+        "ChenkinNoob-XL-V0.5.safetensors": "https://huggingface.co/ChenkinNoob/ChenkinNoob-XL-V0.5/resolve/main/ChenkinNoob-XL-V0.5.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
