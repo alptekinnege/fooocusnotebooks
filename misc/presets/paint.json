@@ -1,10 +1,10 @@
 {
-    "default_model": "OpenDalle_v11.safetensors",
+    "default_model": "painterlij_1.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "None",
             0.1
         ],
         [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "OpenDalle_v11.safetensors": "https://civitai.com/api/download/models/275681"
+        "painterlij_1.safetensors": "https://huggingface.co/pupubear/From_other_XL/resolve/main/From_other_XL_19/painterlij_1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
